@@ -1,0 +1,59 @@
+/* styles/style.css */
+body {
+    font-family: Georgia, sans-serif;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+    }
+    
+    
+    header, footer {
+    background-color: #2004f9;
+    color: #9ef900;
+    padding: 5px;
+    text-align: center;
+    }
+    
+    
+    h1, h2 {
+    color: #333333;
+    }
+    
+    
+    main {
+    padding: 20px;
+    }
+    
+    img {
+        border-style: solid;
+        border-color: skyblue;
+        border-width: 3px;
+      }
+
+      
+    
+    #benefits ul {
+    list-style-type: square;
+    margin-left: 20px;
+    }
+    
+    .important:hover {
+        background-color: #ff0011
+    
+      }
+      a[href="https://www.guinealynx.info/records/viewtopic.php?t=43"] {
+        background-color:rgb(13, 255, 0);
+      }
+      a[href="https://web.archive.org/web/20140802113303/http://www.criver.com/products-services/basic-research/find-a-model/iaf-hairless-guinea-pig-(1)"] {
+        background-color:rgb(13, 255, 0);
+        
+      }
+    
+    .blockquote {
+    font-style: italic;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-left: 5px solid #ccc;
+    }
+ 
